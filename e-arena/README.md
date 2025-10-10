@@ -44,9 +44,3 @@ Website for a fictional esports tournament featuring Valorant, League of Legends
 └── teams_logos/
     └── (team logos)
 ```
-
-## Notes
-
-- Contact form is for demonstration only (no backend)
-- All content is in French
-- Uses system fonts (no external dependencies)
