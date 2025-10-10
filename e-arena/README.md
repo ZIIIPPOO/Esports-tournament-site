@@ -25,9 +25,9 @@ Website for a fictional esports tournament featuring Valorant, League of Legends
 1. Open https://ziiippoo.github.io/Esports-tournament-site/e-arena/index.html in your browser
 
 ## LIGHT-HOUSE
-- **index.html**
-- **teams.html** https://ibb.co/gMvFxddw
-- **styles.css**
+- **index.html** - https://ibb.co/mCWnskPj
+- **teams.html** - https://ibb.co/fzG3VN0D
+- **styles.css** - https://ibb.co/RGz09J9n
 ## W3C
 - **index.html** https://ibb.co/Ngk5T02H
 - **teams.html** https://ibb.co/cKNZPYtb
