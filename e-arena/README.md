@@ -45,8 +45,8 @@ Website for a fictional esports tournament featuring Valorant, League of Legends
     └── (team logos)
 ```
 ## Resources
-https://www.w3schools.com/
-https://developer.mozilla.org/en-US/
-https://youtu.be/wRNinF7YQqQ?si=pgEr9dP82-ikkf_j
-https://youtu.be/HD13eq_Pmp8?si=4g40fz1K4kVokB4H
-https://stackoverflow.com/
+- https://www.w3schools.com/
+- https://developer.mozilla.org/en-US/
+- https://youtu.be/wRNinF7YQqQ?si=pgEr9dP82-ikkf_j
+- https://youtu.be/HD13eq_Pmp8?si=4g40fz1K4kVokB4H
+- https://stackoverflow.com/
