@@ -22,7 +22,7 @@ Website for a fictional esports tournament featuring Valorant, League of Legends
 
 ## How to Use
 
-1. Open https://ziiippoo.github.io/Esports-tournament-site/e-arena/contact.html in your browser
+1. Open https://ziiippoo.github.io/Esports-tournament-site/e-arena/index.html in your browser
 
 ## LIGHT-HOUSE
 - **index.html**
