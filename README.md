@@ -27,11 +27,11 @@ Website for a fictional esports tournament featuring Valorant, League of Legends
 ## LIGHT-HOUSE
 - **index.html** - https://ibb.co/mCWnskPj
 - **teams.html** - https://ibb.co/fzG3VN0D
-- **styles.css** - https://ibb.co/RGz09J9n
+- **contact.html** - https://ibb.co/RGz09J9n
 ## W3C
 - **index.html** - https://ibb.co/Ngk5T02H
 - **teams.html** - https://ibb.co/cKNZPYtb
-- **styles.css** - https://ibb.co/JR4r58pb
+- **contact.html** - https://ibb.co/JR4r58pb
 ## Project Structure
 
 ```
